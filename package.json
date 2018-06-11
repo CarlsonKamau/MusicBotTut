@@ -1,0 +1,23 @@
+{
+  "name": "musicbottut",
+  "version": "1.0.0",
+  "description": "First attempt ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlson",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "get": "^1.4.0",
+    "get-youtube-id": "^1.0.0",
+    "id": "0.0.0",
+    "request": "^2.87.0",
+    "youtube": "^0.1.0",
+    "youtube-info": "^1.2.0",
+    "ytdl": "^0.10.1",
+    "ytdl-core": "^0.20.4"
+  }
+}
